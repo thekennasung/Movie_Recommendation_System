@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 from PIL import Image
-from IPython.display import HTML
 
 # Function to display movie posters
 def display_image(id):
